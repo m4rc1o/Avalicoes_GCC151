@@ -1,0 +1,6 @@
+av1/data/
+av1/notebooks/
+.DS_Store
+.ipynb_checkpoints
+av1/notebooks/.ipynb_checkpoints
+
